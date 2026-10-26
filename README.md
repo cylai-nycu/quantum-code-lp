@@ -103,7 +103,6 @@ The binary database files currently contain the following numbers of ordinary SL
 | `[[17,3,6]]` | 7 | Complete |
 | `[[17,6,5]]` | 292 | Complete |
 | `[[18,4,6]]` | 2,868 | Complete |
-| `[[19,5,6]]` | 357 | Incomplete; the stored database is not marked complete |
 | `[[23,1,9]]` | 1 | Complete |
 | `[[11,3,5]]_3` | 1 | Complete |
 

@@ -22,7 +22,6 @@ Counts and SLR completion flags were read from each literal `DATABASE` object in
 | `candidates/binary/candidates_n17_k3_d6.py` | 7 | Yes |
 | `candidates/binary/candidates_n17_k6_d5.py` | 292 | Yes |
 | `candidates/binary/candidates_n18_k4_d6.py` | 2,868 | Yes |
-| `candidates/binary/candidates_n19_k5_d6.py` | 357 | No |
 | `candidates/binary/candidates_n23_k1_d9.py` | 1 | Yes |
 | `candidates/qudit/candidates_q3_n11_k3_d5.py` | 1 | Yes |
 
