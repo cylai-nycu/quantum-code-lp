@@ -101,14 +101,13 @@ The binary database files currently contain the following numbers of ordinary SL
 | `[[14,3,5]]` | 47 | Complete |
 | `[[16,5,5]]` | 95 | Complete |
 | `[[17,3,6]]` | 7 | Complete |
-| `[[17,5,5]]` | 49,505 | Incomplete; the stored enumeration contains 15 Case 3 candidates and is not marked complete |
 | `[[17,6,5]]` | 292 | Complete |
 | `[[18,4,6]]` | 2,868 | Complete |
 | `[[19,5,6]]` | 357 | Incomplete; the stored database is not marked complete |
 | `[[23,1,9]]` | 1 | Complete |
 | `[[11,3,5]]_3` | 1 | Complete |
 
-The source database is authoritative for the current distribution and test-state records. In particular, `[[16,5,5]]`, `[[17,3,6]]`, `[[18,4,6]]`, and `[[23,1,9]]` retain candidates that have not been structurally excluded. Candidate counts describe the stored SLR enumerations only; they are not numbers of known codes.
+The incomplete `[[17,5,5]]` candidate database is not distributed in this repository. The remaining source databases are authoritative for the distributions and test-state records they contain. In particular, `[[16,5,5]]`, `[[17,3,6]]`, `[[18,4,6]]`, and `[[23,1,9]]` retain candidates that have not been structurally excluded. Candidate counts describe the stored SLR enumerations only; they are not numbers of known codes.
 
 ## Nonexistence verification and current status
 

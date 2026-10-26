@@ -20,14 +20,13 @@ Counts and SLR completion flags were read from each literal `DATABASE` object in
 | `candidates/binary/candidates_n14_k3_d5.py` | 47 | Yes |
 | `candidates/binary/candidates_n16_k5_d5.py` | 95 | Yes |
 | `candidates/binary/candidates_n17_k3_d6.py` | 7 | Yes |
-| `candidates/binary/candidates_n17_k5_d5.py` | 49,505 | No |
 | `candidates/binary/candidates_n17_k6_d5.py` | 292 | Yes |
 | `candidates/binary/candidates_n18_k4_d6.py` | 2,868 | Yes |
 | `candidates/binary/candidates_n19_k5_d6.py` | 357 | No |
 | `candidates/binary/candidates_n23_k1_d9.py` | 1 | Yes |
 | `candidates/qudit/candidates_q3_n11_k3_d5.py` | 1 | Yes |
 
-The stored databases include unfinished, unknown, and running tests. For example, the `[[17,5,5]]` ordinary enumeration is explicitly incomplete, and several refined LP entries in the binary databases are `UNKNOWN`, `RUNNING`, or `NOT TESTED`. H × RX and RX × RY sweeps must not be described as complete based on these files.
+The incomplete `[[17,5,5]]` candidate database is not distributed in this repository. Other stored databases include unfinished, unknown, and running tests; several refined LP entries are `UNKNOWN`, `RUNNING`, or `NOT TESTED`. H × RX and RX × RY sweeps must not be described as complete based on these files.
 
 ## Structural results
 
